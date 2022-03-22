@@ -36,3 +36,4 @@ for cuv in cuvinte:
             print("Da")
         else: 
             print("Nu")
+
